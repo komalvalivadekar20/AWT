@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MY RESUME</title>
+</head>
+<body bgcolor="Aqua">
+	
+	<h1><center><u>RESUME</u></h1>
+	
+	<img src="Photo.jpg" alt="passport" align="right" width="150" height="150" border="1"/>
+	
+	
+	
+	<h3> 
+    <div style="background-color:grey;color:black; padding:0.5%px;">
+		 <center>PERSONAL DETAILS  </h3>
+	<p><b>Email:komalvalivadekar2905@gmail.com</b></p>   
+   <p><b>B.E. : Computer Science Engg</b></p> 
+   <p><b>Contact No.: 9284161610</b></p> 
+   <p><b>Address : Kolhapur</b></p> 
+   
+   <h3>
+    <div style="background-color:grey;color:black; padding:0.5%px;">
+		<center>CAREER OBJECTIVES </h3>
+	<p>Looking for a challenging career which demands the best of my professional ability in term of technical and analytical skill, and help me in broadening and enhancing my current skill and knowledge.
+	</p>
+	<h3>
+    <div style="background-color:grey;color:black; padding:0.5%px;">
+		<center>EDUCATIONAL DETAILS
+ </h3>
+<table border="1" cellspacing=0 cellpadding=4>
+    <tr>
+        <th>Qualification </th>
+        <th>Name Of Institute </th>
+        <th>University</th>
+        <th>Year of Passing</th>
+        <th>Percentage</th>
+    </tr>
+
+    <tr>
+        <td>Degree </td>
+        <td>D.y.patil college of Engg and Tech kolhapur. </td>
+        <td>Shivaji University Kolhapur. </td>
+        <td>2018-19 </td>
+        <td>72.00% </td>
+
+    </tr>
+
+    <tr>
+        <td>Diploma </td>
+        <td>ICRE College Gargoti . </td>
+        <td>MSBTE Board </td>
+        <td>2015-16 </td>
+        <td>71.00% </td>
+    </tr>
+
+    <tr>
+        <td>SSC </td>
+        <td>Ma.kha.mandlik Highschool. </td>
+        <td>Maharashtra State Board </td>
+		<td>2012-13 </td>
+        <td>86.00%</td>
+    </tr>
+</table>
+	
+	<h3>
+    <div style="background-color:grey;color:black; padding:0.5%px;">
+        <center>Technical Skills 
+</h3>
+<ul>
+   <li>	C, C++</li>  
+   <li>	Basic knowledge of Java</li>  
+   <li>	MySQL  </li>  
+   
+   
+</ul>
+ <h3>
+        <div style="background-color:grey;color:black; padding:0.5%px;">
+           <center> Project 
+
+    </h3>
+    <ul>
+       <p>Used Vehicle Price Prediction System Using MLR </p>  
+       <li> Objective: To get accurate price of used vehicle</li>  
+       
+       <li>Conclusion: Broker system will be destroy and System will give price of used vehicle without asking anyone. </li>
+    </ul>
+	
+	<h3>
+        <div style="background-color:grey;color:black; padding:0.5%px;">
+           <center>Extra-Curricular Activitie</h3>
+		   <ul>
+       <li>	Participated for 1 week workshop on Angular Js and python</li>  
+       <li>  Participated certification in Quiz compitition and pair code. </li>  
+       <li>	Particepated certification in Online Data science and python worksop. </li>  
+    </ul>
+	
+	<h3>
+        <div style="background-color:grey;color:black; padding:0.5%px;">
+            <center>Personal Details </h3>
+    <ul>
+        <li><b>Name :</b> Komal Valivadekar</li>
+        <li><b>Date of Birth :</b>29 May 1997.</li>
+        <li><b>Language known :</b>English, Hindi, Marathi.</li>
+        <li><b>Address :</b>At-kambalwadi,tal-Radhanagri,Dist-Kolhapur.</li>
+        <li><b>Marital status :</b>single</li>
+        <li><b>Hobbies :</b>traveling, photography,drowing.</li>
+    </ul>
+	
+	<h3>
+        <div style="background-color:grey;color:black; padding:0.5%px;">
+       <center> DECLARATION
+    </h3>
+   <p> I hereby declare that the above written particulars are true and correct to the best of my knowledge and belief. </p>
+
+   <p><b>Place:</b>Kolhapur</p>
+   <p><b>Date:</b></p>
+   <h4 style="text-align: right;">Komal Valivadekar</h4>
+    
+
+
+
+</table>
+
+
+</body>
+</html>
